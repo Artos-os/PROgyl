@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8q+VFFsumjE=",
+  "success": true,
+  "projectFilePath": "D:\\пук пук 1\\Програмирование\\PROgyl\\PROgyl\\PROgyl\\PROgyl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.8\\microsoft.aspnetcore.app.internal.assets.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

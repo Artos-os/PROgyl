@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043F\u0443\u043A \u043F\u0443\u043A 1\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\PROgyl\\PROgyl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE6571D-E3DF-3C88-A845-E6F4591729BD}|PROgyl\\PROgyl.csproj|d:\\\u043F\u0443\u043A \u043F\u0443\u043A 1\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\progyl\\progyl\\progyl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE6571D-E3DF-3C88-A845-E6F4591729BD}|PROgyl\\PROgyl.csproj|solutionrelative:progyl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1582,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u043F\u0443\u043A \u043F\u0443\u043A 1\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\PROgyl\\PROgyl\\PROgyl\\Program.cs",
+              "RelativeDocumentMoniker": "PROgyl\\Program.cs",
+              "ToolTip": "D:\\\u043F\u0443\u043A \u043F\u0443\u043A 1\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\PROgyl\\PROgyl\\PROgyl\\Program.cs",
+              "RelativeToolTip": "PROgyl\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T18:53:45.569Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 398,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
